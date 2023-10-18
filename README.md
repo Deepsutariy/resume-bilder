@@ -1,4 +1,28 @@
 # Resume-bilder
+
+## Installation
+
+Run This Project With Using Give Below Commands
+### Step - 1
+
+Install dependencies
+
+```bash
+  npm install
+  or 
+  npm install -g yarn
+```
+
+### Step - 2
+
+Run a javascript code 
+
+```bash
+    npm start
+    or
+    yarn start
+```
+
 ---
 ### Home Page
 
